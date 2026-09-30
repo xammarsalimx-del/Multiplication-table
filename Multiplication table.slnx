@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Multiplication table.vcxproj" Id="75a07362-ae40-470c-81be-33dbcd14aff1" />
+</Solution>
